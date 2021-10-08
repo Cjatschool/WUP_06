@@ -157,9 +157,11 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 
 ```
 ```{r}
-fisherXY(GSS$CAPPUN,GSS$RACE)
+fisherXY(GSS$CAPPUN,GSS$RACE,printAll = T)
 ```
 
+
+All of the inferential graphs show that there is a significant difference in attitudes towards capital punishment between black and other races, and black and white people, with the difference being that black people in this study tended to highly oppose capital punishment while white and other races highly favored capital punishment. There was no difference between in attitudes towards capital punishment in white and other races because they both similarly favored it.
 
 # Discussion and Conclusion
 
