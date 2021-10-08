@@ -32,7 +32,7 @@ $H_A$: The attitude towards capital punishment is dependent of ones race
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
 
 
-The data of this study will be two categorical variables, ones attitude towards capital punishment and the race of the people studied.
+The data of this study will be based on two categorical variables, ones attitude towards capital punishment and the race of the people studied.
 
 # Results
 
@@ -75,7 +75,7 @@ colPerc(table1)
 
 
 
-More than 65 percent of white and other races favor capital punishment, and more than 65 percent of black people oppose capital punishment.
+More than 65 percent of white and other races favor capital punishment, while around 65 percent of black people oppose capital punishment.
 
 From this table it appears that there may be a correlation between attitude towards capital punishment and race.
 
@@ -166,3 +166,6 @@ All of the inferential graphs show that there is a significant difference in att
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+The p-value = 0.2751 of the Fisher Exact test, with the confidence interval being 0.5963258 12.8936216. If the null hypothesis were true, the likely hood of getting this same result is high, so because the p-value is high, I reject the null hypothesis in favor of the alternative hypothesis because there is a difference between attitudes towards capital punishment and race, with black people in the study being highly opposed to capital punishment, while white and other races are in favor of capital punishment. So there is a difference in attitudes about capital punishment between black and other races/white, but no difference in attitudes between white and other races.
