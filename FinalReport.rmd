@@ -31,6 +31,9 @@ $H_A$: The attitude towards capital punishment is dependent of ones race
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
 
+
+The data of this study will be two categorical variables, ones attitude towards capital punishment and the race of the people studied.
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
